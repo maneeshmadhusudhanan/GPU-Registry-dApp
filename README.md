@@ -147,7 +147,7 @@ struct ExecutionCompleted { execution_id: ID, status: String, duration_ms: u64 }
 Layer	Tech
 ⚙️ Blockchain	Sui Blockchain + Move Language
 📦 Contracts	gpu_registry + model_execution
-💻 Frontend	Next.js 13+ + TypeScript
+💻 Frontend	    React.js + TypeScript
 🎨 Styling	Tailwind CSS
 📊 Charts	Chart.js
 🔌 Wallet	Sui Wallet / Suiet
@@ -186,7 +186,7 @@ Layer	Tech
 Dashboard
 🚀 Model Execution Tracker
 
-Crypto Animation
+
 🧪 Setup & Installation
 ⚡ Clone & Install
 
@@ -212,20 +212,30 @@ npm run dev
     Open a Pull Request 🎉
 
 📩 Contact & Support
+📧 Email  : maneeshroks@gmail.com
+linkedin  : https://www.linkedin.com/in/maneesh-madhusudhanan-50967a132/
 
-📧 Email: your-email@example.com
-💬 Telegram: @YourTelegramID
-🔗 GitHub Issues: Report an Issue
-📜 License
 
-MIT License – Feel free to modify & use with credits.
-📅 Roadmap
 
-✅ GPU Registry Core
-✅ Model Execution Tracker
-🔜 GPU Benchmarking
-🔜 Mobile-first React Native dApp
-🔜 Execution Analytics Dashboard
 
-🌟 Empowering GPU Usage with Blockchain Transparency
-🚀 Sui GPU Registry dApp – Track, Manage & Execute Decentralized!
+MIT License – 
+
+Copyright (c) 2025 may-16 3:00am MANEESH MADHUSUDHANAN
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
