@@ -1,0 +1,13 @@
+[package]
+name = "gpu_registry"
+version = "0.0.1"
+edition = "2024.beta"
+
+[addresses]
+gpu_registry = "0x0"
+
+[dev-addresses]
+gpu_registry = "0x0"
+
+[dependencies]
+Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "framework/mainnet" }
